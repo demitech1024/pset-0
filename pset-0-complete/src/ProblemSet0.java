@@ -72,7 +72,7 @@ public class ProblemSet0 {
 
         System.out.println("\nHere's today's to-do list:");
         System.out.println("\t- Go food shopping");
-        System.out.println("\t- Mow the lawn\n\n");
+        System.out.println("\t- Mow the lawn\n");
 
         /*
          * Exercise 6.
@@ -96,12 +96,12 @@ public class ProblemSet0 {
          * Print three diamonds to the console.
          */
 
-        System.out.println("  /\\     /\\     /\\");
+        System.out.println("\n  /\\     /\\     /\\");
         System.out.println(" /  \\   /  \\   /  \\");
         System.out.println("/    \\ /    \\ /    \\");
         System.out.println("\\    / \\    / \\    /");
         System.out.println(" \\  /   \\  /   \\  /");
-        System.out.println("  \\/     \\/     \\/");
+        System.out.println("  \\/     \\/     \\/\n");
 
         /*
          * Exercise 9.
@@ -117,7 +117,7 @@ public class ProblemSet0 {
          * Print a plus sign to the console.
          */
 
-        System.out.println("\t\b\b\b\b+---+\n\t\b\b\b\b|\t|");
+        System.out.println("\n\t\b\b\b\b+---+\n\t\b\b\b\b|\t|");
         System.out.println("+---+\t+---+\n|\t\t\b\b\b\b|\n+---+\t+---+");
         System.out.println("\t\b\b\b\b|\t|\n\t\b\b\b\b+---+\n");
     }
