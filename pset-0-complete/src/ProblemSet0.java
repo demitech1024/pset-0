@@ -27,7 +27,7 @@ public class ProblemSet0 {
          * Print a message to the console.
          */
 
-        System.out.println("\nHello, world! Am I a programmer yet?\n");
+        System.out.println("\nHello, world! Am I a programmer yet?");
 
         /*
          * Exercise 2.
@@ -41,7 +41,7 @@ public class ProblemSet0 {
         System.out.println("######## ######  #        ########");
         System.out.println("#      # #       #               #");
         System.out.println("#      # #       #               #");
-        System.out.println("#      # #       ######## ########\n");
+        System.out.println("#      # #       ######## ########");
 
         /*
          * Exercise 3.
@@ -49,7 +49,7 @@ public class ProblemSet0 {
          * Print a quoted message to the console.
          */
 
-        System.out.println("\n\"The answer's quite simple,\" the professor said. \"Just think outside the box!\"\n");
+        System.out.println("\n\"The answer's quite simple,\" the professor said. \"Just think outside the box!\"");
 
         /*
          * Exercise 4.
@@ -62,7 +62,7 @@ public class ProblemSet0 {
         System.out.println("(|  0 0  |)");
         System.out.println(" |   ^   |");
         System.out.println(" |  '-'  |");
-        System.out.println("  +-----+\n");
+        System.out.println("  +-----+");
 
         /*
          * Exercise 5.
@@ -72,7 +72,7 @@ public class ProblemSet0 {
 
         System.out.println("\nHere's today's to-do list:");
         System.out.println("\t- Go food shopping");
-        System.out.println("\t- Mow the lawn\n");
+        System.out.println("\t- Mow the lawn");
 
         /*
          * Exercise 6.
@@ -80,7 +80,7 @@ public class ProblemSet0 {
          * Print a square of text to the console.
          */
 
-        System.out.println("\nH E L L O\nE\tA\nL\tP\nL\tC\nO A P C S\n");
+        System.out.println("\nH E L L O\nE\t\tA\nL\t\tP\nL\t\tC\nO A P C S");
 
         /*
          * Exercise 7.
@@ -88,7 +88,7 @@ public class ProblemSet0 {
          * Print a countdown to the console.
          */
 
-        System.out.println("\nThree.\tTwo.\tOne.\tGo!\n");
+        System.out.println("\nThree.\tTwo.\tOne.\tGo!");
 
         /*
          * Exercise 8.
@@ -101,7 +101,7 @@ public class ProblemSet0 {
         System.out.println("/    \\ /    \\ /    \\");
         System.out.println("\\    / \\    / \\    /");
         System.out.println(" \\  /   \\  /   \\  /");
-        System.out.println("  \\/     \\/     \\/\n");
+        System.out.println("  \\/     \\/     \\/");
 
         /*
          * Exercise 9.
@@ -109,16 +109,15 @@ public class ProblemSet0 {
          * Print an encouraging message to the console.
          */
 
-        System.out.println("\nYou're almost done with your first problem set...\n");
+        System.out.println("\nYou're almost done with your first problem set...");
 
         /*
          * Exercise 10.
          * 
          * Print a plus sign to the console.
          */
-
-        System.out.println("\n\t\b\b\b\b+---+\n\t\b\b\b\b|\t|");
-        System.out.println("+---+\t+---+\n|\t\t\b\b\b\b|\n+---+\t+---+");
-        System.out.println("\t\b\b\b\b|\t|\n\t\b\b\b\b+---+\n");
+        System.out.println("\n\t+---+\n\t|\t|");
+        System.out.println("+---+\t+---+\n|\t\t\t|\n+---+\t+---+");
+        System.out.println("\t|\t|\n\t+---+\n");
     }
 }
